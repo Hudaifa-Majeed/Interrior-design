@@ -324,6 +324,11 @@ h3{
     text-align: left ;
 
 }
+.row{
+    display:flex;
+    align-item: center;
+    justify-content: centre;
+}
 
 
 
